@@ -1,0 +1,1 @@
+export CLASSPATH=$CLASSPATH:/home/cg/root/algs4.jar
